@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\App.g.cs
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11_MarkupCompile.cache
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11_MarkupCompile.lref
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\bin\Debug\Lesson_11.exe.config
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\bin\Debug\Lesson_11.exe
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\bin\Debug\Lesson_11.pdb
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.g.resources
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.exe
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.pdb
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.csproj.Fody.CopyLocal.cache
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\View\DepartamentView.g.cs
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\View\DepartamentView.baml
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\SkillboxHomeWork\Lesson_11\obj\Debug\Lesson_11.csprojAssemblyReference.cache

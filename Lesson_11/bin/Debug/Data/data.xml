@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfDepartament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Departament Name="ОАО Союз меча и орала">
+    <Chief FirstName="Директор" SecondName="Директоров" Patronymic="Директорович" ChiefType="DIRECTOR" />
+    <Workers />
+    <SubDepartaments>
+      <Departament Name="Отдел 1">
+        <Chief FirstName="Заместитель 1" SecondName="Замистетльцев 1" Patronymic="Замистительевич 1" ChiefType="DEPUTY_DIRECTOR" />
+        <Workers>
+          <Worker FirstName="Работник 11" SecondName="Работников 11" Patronymic="Работникович 11" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+          <Worker FirstName="Работник 12" SecondName="Работников 12" Patronymic="Работникович 12" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+          <Worker FirstName="Интерн 11" SecondName="Интернов 11" Patronymic="Интернович 11" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+        </Workers>
+        <SubDepartaments>
+          <Departament Name="Отдел 11">
+            <Chief FirstName="Начальник 11" SecondName="Начальников 11" Patronymic="Начальников 11" ChiefType="HEAD_DEPARTMENT" />
+            <Workers>
+              <Worker FirstName="Работник 111" SecondName="Работников 111" Patronymic="Работникович 111" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Работник 112" SecondName="Работников 112" Patronymic="Работникович 112" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Интерн 111" SecondName="Интернов 111" Patronymic="Интернович 111" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+            </Workers>
+            <SubDepartaments />
+          </Departament>
+          <Departament Name="Отдел 12">
+            <Chief FirstName="Начальник 12" SecondName="Начальников 12" Patronymic="Начальников 12" ChiefType="HEAD_DEPARTMENT" />
+            <Workers>
+              <Worker FirstName="Работник 121" SecondName="Работников 121" Patronymic="Работникович 121" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Работник 122" SecondName="Работников 122" Patronymic="Работникович 122" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Интерн 121" SecondName="Интернов 121" Patronymic="Интернович 121" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+            </Workers>
+            <SubDepartaments />
+          </Departament>
+          <Departament Name="Отдел 13">
+            <Chief FirstName="Начальник 13" SecondName="Начальников 13" Patronymic="Начальников 13" ChiefType="HEAD_DEPARTMENT" />
+            <Workers>
+              <Worker FirstName="Работник 131" SecondName="Работников 131" Patronymic="Работникович 131" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Работник 132" SecondName="Работников 132" Patronymic="Работникович 132" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+              <Worker FirstName="Интерн 131" SecondName="Интернов 131" Patronymic="Интернович 131" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+            </Workers>
+            <SubDepartaments>
+              <Departament Name="Отдел 131">
+                <Chief FirstName="Начальник 131" SecondName="Начальников 131" Patronymic="Начальников 131" ChiefType="HEAD_DEPARTMENT" />
+                <Workers>
+                  <Worker FirstName="Работник 1311" SecondName="Работников 1311" Patronymic="Работникович 1311" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Работник 1312" SecondName="Работников 1312" Patronymic="Работникович 1312" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Интерн 1311" SecondName="Интернов 1311" Patronymic="Интернович 1311" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+                </Workers>
+                <SubDepartaments />
+              </Departament>
+              <Departament Name="Отдел 132">
+                <Chief FirstName="Начальник 1332" SecondName="Начальников 132" Patronymic="Начальников 132" ChiefType="HEAD_DEPARTMENT" />
+                <Workers>
+                  <Worker FirstName="Работник 1321" SecondName="Работников 1321" Patronymic="Работникович 1321" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Работник 1322" SecondName="Работников 1322" Patronymic="Работникович 1322" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Интерн 1321" SecondName="Интернов 1321" Patronymic="Интернович 1321" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+                </Workers>
+                <SubDepartaments />
+              </Departament>
+              <Departament Name="Отдел 133">
+                <Chief FirstName="Начальник 133" SecondName="Начальников 1333" Patronymic="Начальников 1333" ChiefType="HEAD_DEPARTMENT" />
+                <Workers>
+                  <Worker FirstName="Работник 1331" SecondName="Работников 1331" Patronymic="Работникович 1331" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Работник 1332" SecondName="Работников 1332" Patronymic="Работникович 1332" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+                  <Worker FirstName="Интерн 1331" SecondName="Интернов 1331" Patronymic="Интернович 1331" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+                </Workers>
+                <SubDepartaments />
+              </Departament>
+            </SubDepartaments>
+          </Departament>
+        </SubDepartaments>
+      </Departament>
+      <Departament Name="Отдел 2">
+        <Chief FirstName="Начальник 2" SecondName="Начальников 2" Patronymic="Начальникович 2" ChiefType="HEAD_DEPARTMENT" />
+        <Workers>
+          <Worker FirstName="Работник 21" SecondName="Работников 21" Patronymic="Работникович 21" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+          <Worker FirstName="Работник 22" SecondName="Работников 22" Patronymic="Работникович 22" WorkerType="WORKMAN" MonthWorkingHours="120" SalaryRate="10" />
+          <Worker FirstName="Интерн 21" SecondName="Интернов 21" Patronymic="Интернович 21" WorkerType="INTERN" MonthWorkingHours="0" SalaryRate="500" />
+        </Workers>
+        <SubDepartaments />
+      </Departament>
+    </SubDepartaments>
+  </Departament>
+</ArrayOfDepartament>
